@@ -1,0 +1,7 @@
+# The collection script uses only Python's standard library.
+# Install these later when we begin exploring and modeling the data.
+pandas>=2.2,<4
+numpy>=1.26,<3
+scikit-learn>=1.5,<2
+matplotlib>=3.9,<4
+jupyterlab>=4.2,<5
